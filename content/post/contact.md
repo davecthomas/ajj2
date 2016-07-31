@@ -1,0 +1,27 @@
++++
+categories = ["contact"]
+coaches = ["Dave Thomas"]
+authorimages = ["dave-thomas.jpg"]
+date = "2016-07-31T15:25:09-05:00"
+tags = ["email", "phone", "location", "social media"]
+title = "Contact Us"
+
++++
+
+### Email
+![Call Us](/img/coach.png "")
+### Phone
+Call or text us at ![Call Us](/img/contact-txt.png "")
+
+### Location
+
+We are only open during class times, so please see our [schedule]({{< ref "post/schedule.md" >}}) to plan a visit.
+
+2401 Longview St.
+Austin, TX 78705
+
+[See map]({{< ref "post/location.md" >}})
+
+### Social Media
+
+Click one of the links on the left to get to our [Facebook](https://www.facebook.com/austinjiujitsu.jitshappens ""), [Twitter](http://twitter.com/austinjiujitsu ""), [YouTube](https://www.youtube.com/austinjiujitsu ""), or other pages.

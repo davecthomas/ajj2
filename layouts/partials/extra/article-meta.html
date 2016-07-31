@@ -1,0 +1,21 @@
+{{ $node := . }}
+<div class="extras-container">
+    {{ partial "extra/coaches.html" . }}
+    <div class="otherextras-right">
+        <time class="date-color">{{ .Date.Format "Mon Jan 02, 2006" }}</time>
+        <span class="separator">|</span>
+        {{ partial "extra/categories.html" . }}
+        {{ if not ($node.Scratch.Get "minimalextras")}}
+        <span class="separator">|</span>
+        {{ partial "extra/tags.html" . }}
+        <span class="separator">|</span>
+        <ul class="fontsizer">
+            <li><a href="#" id="fontsizer-small">A</a></li>
+            <li><a href="#" id="fontsizer-medium" class="selected">A</a></li>
+            <li><a href="#" id="fontsizer-large">A</a></li>
+        </ul>
+
+        {{ end }}
+    </div>
+    <div class="endextras"></div>
+</div>
