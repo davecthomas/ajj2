@@ -1,9 +1,17 @@
 {{ $baseurl := .Site.BaseURL}}
 <!-- Load materialize used to provide parts of theme visuals -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/css/materialize.min.css">
+<link rel="stylesheet" href="{{ $baseurl }}css/materialize.min.css">
 
 <!-- Load font awesome used for various icons -->
 <link rel="stylesheet" href="{{ $baseurl }}css/font-awesome.min.css">
+
+{{/* Load Font */}}
+<style>
+@font-face {
+    font-family: 'Campton';
+    src: url('{{$baseurl }}/fonts/CamptonMedium.otf');
+}
+</style>
 
 {{ with .Site.Params.Highlight }}
     <!-- Load highlight theme used for client-side syntax highlighting -->

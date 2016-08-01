@@ -27,7 +27,7 @@ Private Sessions include both gymnastic style bodyweight training and kettlebell
 
 #### About Strength and Mobility Coach Jacob Primeaux
 
-![Jacob Primeaux](/img/jacob-primeaux.jpg)
+![Jacob Primeaux](/img/post/jacob-primeaux.jpg)
 
  Jacob is a native Austinite with a love for physical activity. Having survived numerous sport and training related injuries from a combination of high mileage and poor training advice, Jacob set to utilizing his analytical prowess (fostered via years of studying and teaching math and philosophy) to discovering modalities for rebuilding injured bodies and fostering vigorous strength and health. His love of learning is matched only by his love of teaching, and he endeavors to constantly improve both himself and his students.
 

@@ -1,7 +1,7 @@
 {{ if ne .Site.Params.sharetwitter false}}
 <section>
   <div class="chip">
-  <a class="fa fa-twitter fa-2x" href="https://twitter.com/share?text={{ .Title | safeHTML}}&amp;url={{ .Permalink }}"
+  <a class="fa fa-twitter fa-2x" href="http://twitter.com/share?text={{ .Title | safeHTML}}&amp;url={{ .Permalink }}"
       onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
       <span class="share">Twitter</span>
   </a>
@@ -13,7 +13,7 @@
   </a>
 </div>
   <div class="chip">
-    <a class="fa fa-google-plus fa-2x" href="https://plus.google.com/share?url={{ .Permalink }}"
+    <a class="fa fa-google-plus fa-2x" href="http://plus.google.com/share?url={{ .Permalink }}"
      onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
       <span class="share">Google+</span>
     </a>

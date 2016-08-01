@@ -1,8 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Crimson+Text);
-@font-face {
-    font-family: 'Campton';
-    src: url(https://content.goverb.com/fonts/CamptonMedium.otf);
-}
+@import url(//fonts.googleapis.com/css?family=Crimson+Text);
 
 .con11-header{
   height: 50%;

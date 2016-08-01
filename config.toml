@@ -1,6 +1,6 @@
 # Overridden default settings
 # MUST have trailing slash
-baseURL = "https://ajj2.herokuapp.com/"
+baseURL = "//ajj3.herokuapp.com/"
 languageCode = "en-us"
 newContentEditor = "atom"
 theme = "grid-side"
@@ -228,22 +228,22 @@ infinite_scroll = true
      [[Params.Footer.List]]
 
          icon_class = "facebook"
-         icon_link = "https://www.facebook.com/austinjiujitsu.jitshappens"
+         icon_link = "http://www.facebook.com/austinjiujitsu.jitshappens"
 
      [[Params.Footer.List]]
 
          icon_class = "google-plus"
-         icon_link = "https://plus.google.com/+DavidThomas1"
+         icon_link = "http://plus.google.com/+DavidThomas1"
 
      [[Params.Footer.List]]
 
          icon_class = "youtube"
-         icon_link = "https://www.youtube.com/austinjiujitsu"
+         icon_link = "http://www.youtube.com/austinjiujitsu"
 
      [[Params.Footer.List]]
 
             icon_class = "instagram"
-            icon_link = "https://www.instagram.com/davecthomas/"
+            icon_link = "http://www.instagram.com/davecthomas/"
 
      [[Params.Footer.List]]
 
