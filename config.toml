@@ -1,6 +1,6 @@
 # Overridden default settings
 # MUST have trailing slash
-baseURL = "//ajj3.herokuapp.com/"
+baseURL = "//austinjujitsu.com/"
 languageCode = "en-us"
 newContentEditor = "atom"
 theme = "grid-side"
