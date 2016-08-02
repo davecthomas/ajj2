@@ -1,10 +1,10 @@
 +++
-categories = ["contact"]
-coaches = ["Dave Thomas"]
-authorimages = ["dave-thomas.jpg"]
+topics = ["contact"]
+
 date = "2016-07-31T15:25:09-05:00"
 tags = ["email", "phone", "location", "social media"]
 title = "Contact Us"
+weight = 5
 
 +++
 

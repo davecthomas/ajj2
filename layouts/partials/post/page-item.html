@@ -1,4 +1,5 @@
 {{ $baseUrl := .Site.BaseURL }}
+{{ $articleid := .Params.articleid}}
 <script>
 function redir( gohere ){
   window.location.href = gohere;
@@ -20,8 +21,8 @@ function redir( gohere ){
             {{ partial "extra/article-meta.html" .}}
         </header>
         <p class="page-item-summary">{{ .Summary }}</p>
-        <a href="{{ .Permalink }}" class="page-item-btn {{ if .Params.redirect }}page-item-btn-red{{ end }}">
-            {{ if .Params.redirect }}Redirect{{ else }}Read More{{ end }}
+        <a href="{{ .Permalink }}" class="page-item-btn shake {{ if .Params.redirect }}page-item-btn-red{{ end }}">
+            {{ if .Params.redirect }}Redirect{{ else }}More...{{ end }}
         </a>
         <footer>
         </footer>

@@ -8,14 +8,16 @@
         {{ if not ($node.Scratch.Get "minimalextras")}}
         <span class="separator">|</span>
         {{ partial "extra/tags.html" . }}
-        <span class="separator">|</span>
-        <ul class="fontsizer">
-            <li><a href="#" id="fontsizer-small">A</a></li>
-            <li><a href="#" id="fontsizer-medium" class="selected">A</a></li>
-            <li><a href="#" id="fontsizer-large">A</a></li>
-        </ul>
-
         {{ end }}
     </div>
+    {{ if not ($node.Scratch.Get "minimalextras")}}
+    <div class="fontsizer">
+    <ul class="fontsizer">
+        <li><a href="#" id="fontsizer-small">A</a></li>
+        <li><a href="#" id="fontsizer-medium" class="selected">A</a></li>
+        <li><a href="#" id="fontsizer-large">A</a></li>
+    </ul>
+    </div>
+    {{ end }}
     <div class="endextras"></div>
 </div>

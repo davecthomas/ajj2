@@ -1,12 +1,15 @@
 +++
-categories = ["bio"]
+topics = ["coaches"]
 coaches = ["Dave Thomas"]
 authorimages = ["dave-thomas.jpg"]
 date = "2016-07-31T15:25:09-05:00"
 tags = ["bjj"]
 title = "About David Thomas"
+weight = 2
 
 +++
+![Coach Dave](/img/authors/dave-thomas.jpg)
+
 David Thomas of Austin, Texas has been training, competing, and coaching since January 1985. He is founder and Head Coach of Austin Jiu-Jitsu (Self-Defense Mentor, LLC), offering self-defense instruction, consulting, and training.
 
 - Brazilian Jiu-Jitsu Black Belt (under Carlos Gracie Jr. Black Belt Travis Tooke). Coaching since 2003, training since 1995.

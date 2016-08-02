@@ -1,8 +1,9 @@
 +++
-categories = ["prices","sign up"]
+topics = ["prices"]
 date = "2016-07-31T15:25:09-05:00"
 tags = ["bjj", "wrestling", "strength"]
 title = "Sign Up With Us!"
+weight = 8
 
 +++
 

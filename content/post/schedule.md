@@ -1,8 +1,9 @@
 +++
-categories = ["schedule"]
+topics = ["schedule"]
 date = "2016-07-31T15:25:09-05:00"
-tags = ["bjj"]
+tags = ["bjj", "wrestling", "strength"]
 title = "Schedule"
+weight = 3
 
 +++
 

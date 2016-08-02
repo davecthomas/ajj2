@@ -1,16 +1,17 @@
 +++
-categories = ["services"]
+topics = ["services"]
 coaches = ["Dave Thomas"]
 authorimages = ["dave-thomas.jpg"]
 date = "2016-07-31T15:25:09-05:00"
 tags = ["bjj"]
 title = "Brazilian Jiu-Jitsu"
+weight = 1
 
 +++
 
 ### What makes BJJ so different?
 
-Brazilian Jiu-Jitsu  is widely regarded as the world's most effective ground fighting (grappling) art. While it has been evolving since the early 1900s as a martial art, street fighting system, and sport, the last ten years have brought it the most popularity in America and abroad as a result of globally distributed media coverage of victories in numerous challenge matches and mixed martial arts competitions pitting athletes with mastery of various martial arts. It is a safe yet highly effective combat system. It is considered relatively safe because it does not employ striking (kicks, punches, elbows, etc.), yet it is effective because of its ability to respond well to numerous types of realistic situations. As has been said many times about fights: they almost always start standing, but end up quickly on the ground. Brazilian Jiu-Jitsu  (BJJ) provides unlimited avenues to success from standing and ground positions. A hallmark of BJJ is that it is constantly evolving and improving to solve the real problems discovered by the competitors and instructors of the art. Another reason for the popularity and success of BJJ lies in the fact that it does not rely as much on size, strength, or speed as many fighting or self-defense systems. Over and over again, BJJ has proven this in real fight situations. BJJ utilizes take-downs, leverage on joints, and chokes to gain control over opponents. One of many remarkable aspects of this art: it gives students ability to defeat opponents from almost any position, even underneath an opponent. To an untrained eye, it is sometimes difficult to know who is in the best position when a BJJ fighter is involved, until it quickly ends in the defeat of the opponent!
+Brazilian Jiu-Jitsu is widely regarded as the world's most effective ground fighting (grappling) system. While it has been evolving since the early 1900s as a martial art, street fighting system, and sport, the last ten years have brought it the most popularity in America and abroad as a result of globally distributed media coverage of victories in numerous challenge matches and mixed martial arts competitions pitting athletes with mastery of various martial arts. It is a safe yet highly effective combat system. It is considered relatively safe because it does not employ striking (kicks, punches, elbows, etc.), yet it is effective because of its ability to respond well to numerous types of realistic situations. As has been said many times about fights: they almost always start standing, but end up quickly on the ground. Brazilian Jiu-Jitsu  (BJJ) provides unlimited avenues to success from standing and ground positions. A hallmark of BJJ is that it is constantly evolving and improving to solve the real problems discovered by the competitors and instructors of the art. Another reason for the popularity and success of BJJ lies in the fact that it does not rely as much on size, strength, or speed as many fighting or self-defense systems. Over and over again, BJJ has proven this in real fight situations. BJJ utilizes take-downs, leverage on joints, and chokes to gain control over opponents. One of many remarkable aspects of this art: it gives students ability to defeat opponents from almost any position, even underneath an opponent. To an untrained eye, it is sometimes difficult to know who is in the best position when a BJJ fighter is involved, until it quickly ends in the defeat of the opponent!
 
 ### Basic Concepts: The Goal is Control
 
@@ -101,4 +102,9 @@ Brazilian Jiu-Jitsu is a refined and distant derivative of Japanese Jiu-Jitsu . 
 
 In 1914, Maeda moved to Brazil to help Japanese immigrants. There he met Gastï¿½o Gracie, the son of Scottish immigrant George Gracie. Gracie had assisted Maeda greatly, and in return, Maeda taught Judo to Gracie's son Carlos at Maeda's school in Brazil. Carlos, who was 14 when he started training, almost immediately started adapting the techniques to be more effective in open street fights where anything goes (vale tudo, in Portuguese). Carlos Gracie, like many fighters of his time, continued a tradition of "challenge matches" against fighters of various styles. He was famous throughout Brazil for his success in these fights. Later, Carlos taught his brothers Oswaldo, Jorge, Gastao and Helio. The first academy was opened in Rio de Janeiro in 1925. Carlos and Helio were responsible for creating the basis upon which Brazilian Jiu-Jitsu  exists today. Helio was small and frail, yet would consistently beat larger opponents. The Gracies began to emigrate to the United States after 1972, where they opened schools and hosted competitions and successful challenge matches. Most Gracie schools use the term "Gracie Jiu-Jitsu ." This is synonymous with Brazilian Jiu-Jitsu .
 
-Visit [Austin Jiu-Jitsu](http://austinjiujitsu.com) to learn more about opportunities to explore Brazilian Jiu-Jitsu for children and adults.
+#### Join Us!
+Visit [Austin Jiu-Jitsu](http://austinjiujitsu.com) to learn more about opportunities to explore Brazilian Jiu-Jitsu.
+
+### About Head Coach David Thomas
+
+[About Coach Dave]({{< ref "post/dave-thomas.md" >}})

@@ -1,17 +1,15 @@
 +++
 draft = false
-Categories = ["services"]
-coaches = ["Dave Thomas"]
+topics = ["services", "what we do"]
 Description = ""
 Tags = ["bjj", "wrestling", "strength"]
 Date = "2016-07-29T11:43:42-05:00"
 Title = "What We Do"
 subt = "Training the Complete Fighter"
-authorimages = ["dave-thomas.jpg"]
+weight = 4
+
 toc = true
 +++
-
-
 
 ### Brazilian Jiu-Jitsu
 #### The world's most effective ground-fighting system!
@@ -33,3 +31,7 @@ Training with Austin Jiu-Jitsu is guaranteed to raise your awareness, understand
 **We have been teaching Austin how to grapple for 13 years!**
 
 Austin Jiu-Jitsu was founded by David Thomas, holder of 3 black belts, in 2003. Our gym is committed to developing student potential through safe, balanced, and effective self-defense training, leveraging the concepts Brazilian Jiu-Jitsu, Submission Grappling, wrestling, and Mobility & Strength Training.
+
+### Our coaches
+
+[About our coaches]({{< ref "post/coaches.md" >}})

@@ -1,11 +1,11 @@
 # Overridden default settings
 # MUST have trailing slash
-baseURL = "//austinjujitsu.com/"
+baseURL = "austinjujitsu.com/"
 languageCode = "en-us"
 newContentEditor = "atom"
 theme = "grid-side"
 title = "Austin Jiu-Jitsu"
-copyright = "Austin Jiu-Jitsu"
+copyright = "AustIn JIu-JItsu"
 
 # Default settings, included here for reference. Not required.
 archetypedir=               "archetype"
@@ -53,7 +53,7 @@ metaDataFormat=             "toml"
 # newContentEditor=           ""
 # Don't sync modification time of files
 noTimes=                    false
-paginate=                   10
+paginate=                   20
 paginatePath=               "page"
 # permalinks= NOT SURE WHAT DEFAULT IS
 # Pluralize titles in lists using inflect
@@ -104,8 +104,9 @@ disqusShortname = ""
 
 [taxonomies]
 tag = "tags"
-category = "categories"
+topic = "topics"
 coach = "coaches"
+blog = "blogs"
 
 
 # gridside The theme supports menus with up to one submenu per menu item
@@ -171,14 +172,14 @@ infinite_scroll = true
  [Params.Header]
 
      # This is optional
-     name = ""
+     name = "Click or scroll down"
 
      logo = "v-outlinewhite.png"
 
      # This is optional
      description = ""
 
-     tagline = "Austin Jiu-Jitsu"
+     tagline = "AustIn JIu-JItsu"
      tagline2 = "Brazilian Jiu-Jitsu, Wrestling, Mobility & Strength Training."
 
 
@@ -319,15 +320,23 @@ infinite_scroll = true
          always_show_text = true
          grayscale = true
          link = "coaches/"
-         image = "img/ajj-mask-logo.png"
+         image = "img/authors/dave-thomas.jpg"
 
      [[Params.Cells.List]]
 
-         name = "Categories"
+         name = "Topics"
          always_show_text = true
          grayscale = true
          link = "categories/"
-         image = "img/ajj-mask-logo.png"
+         image = "img/action-shot.jpg"
+
+     [[Params.Cells.List]]
+
+         name = "Blog"
+         always_show_text = true
+         grayscale = true
+         link = "blogs/"
+         image = "img/jits-happens.png"
 
      [[Params.Cells.List]]
 
@@ -335,4 +344,4 @@ infinite_scroll = true
          always_show_text = true
          grayscale = true
          link = "tags/"
-         image = "img/ajj-mask-logo.png"
+         image = "img/team.jpg"
