@@ -9,7 +9,7 @@ weight = 20
 
 +++
 
-Do your training buddy a favor and smack the shit out of him next time you spar. Will he forgive you? Hell, he should _thank you_. [Flow](({{< ref "post/flow.md" >}})) is great and technique drilling is absolutely important, but...
+Do your training buddy a favor and smack the shit out of him next time you spar. Will he forgive you? Hell, he should _thank you_. [Flow](({{< ref "post/blog-flow.md" >}})) is great and technique drilling is absolutely important, but...
 
 >if you aren't regularly putting yourself into the mindset of a real fight, you aren't preparing yourself for a real fight.
 
