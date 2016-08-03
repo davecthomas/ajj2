@@ -327,7 +327,7 @@ infinite_scroll = true
          name = "Topics"
          always_show_text = true
          grayscale = true
-         link = "categories/"
+         link = "topics/"
          image = "img/action-shot.jpg"
 
      [[Params.Cells.List]]
