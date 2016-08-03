@@ -207,10 +207,9 @@ infinite_scroll = true
  #
  [Params.Footer]
 
-    # Links open in new tab
-    target = "_blank"
 
     companyHomeURL = "http://austinjiujitsu.com"
+    target = "_self"
 
      #
      # Represents the list of icons and associated links to use in your
@@ -225,36 +224,50 @@ infinite_scroll = true
 
          icon_class = "rss"
          icon_link = "/blogs/jits-happens"
+         target = "_self"
+
 
      [[Params.Footer.List]]
 
          icon_class = "twitter"
          icon_link = "http://twitter.com/austinjiujitsu"
+         # Links open in new tab
+         target = "_blank"
 
      [[Params.Footer.List]]
 
          icon_class = "facebook"
          icon_link = "http://www.facebook.com/austinjiujitsu.jitshappens"
+         # Links open in new tab
+         target = "_blank"
 
      [[Params.Footer.List]]
 
          icon_class = "youtube"
          icon_link = "http://www.youtube.com/austinjiujitsu"
+         # Links open in new tab
+         target = "_blank"
 
      [[Params.Footer.List]]
 
          icon_class = "picture-o"
          icon_link = "http://picasaweb.google.com/dthomasjiujitsu"
+         # Links open in new tab
+         target = "_blank"
 
      [[Params.Footer.List]]
 
          icon_class = "google-plus"
          icon_link = "http://plus.google.com/+DavidThomas1"
+         # Links open in new tab
+         target = "_blank"
 
      [[Params.Footer.List]]
 
-            icon_class = "instagram"
-            icon_link = "http://www.instagram.com/davecthomas/"
+        icon_class = "instagram"
+        icon_link = "http://www.instagram.com/davecthomas/"
+        # Links open in new tab
+        target = "_blank"
 
 
 # Post settings

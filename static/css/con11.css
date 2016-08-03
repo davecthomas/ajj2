@@ -15,6 +15,10 @@ h3{
 .@media screen and (min-width: 768px){
    .ajj_hidetiny { display: none; }
 }
+.ajjcopy{
+  text-align: right; vertical-align: bottom;
+  font-size: 0.6rem;
+}
 .ajjgoldtext{
   color: rgba(102,102,69, 1);
 }
@@ -853,18 +857,23 @@ ul.fontsizer li a:hover {
     opacity: 1.0;
 }
 
+element {
+  --shake-factor: .02rem;
+  --shake-factor2: -.02rem;
+}
+
 @-webkit-keyframes shakeit {
-0% { -webkit-transform: translate(1px, 1px) rotate(0deg); }
-10% { -webkit-transform: translate(-1px, -1px) rotate(-.5deg); }
-20% { -webkit-transform: translate(-1px, 0px) rotate(0deg); }
-30% { -webkit-transform: translate(0px, 1px) rotate(.5deg); }
-40% { -webkit-transform: translate(1px, -1px) rotate(0deg); }
-50% { -webkit-transform: translate(-1px, 1px) rotate(-.5deg); }
-60% { -webkit-transform: translate(-1px, 1px) rotate(0deg); }
-70% { -webkit-transform: translate(1px, 1px) rotate(.5deg); }
-80% { -webkit-transform: translate(-1px, -1px) rotate(0deg); }
-90% { -webkit-transform: translate(1px, 1px) rotate(-.5deg); }
-100% { -webkit-transform: translate(1px, -1px) rotate(0deg); }
+0% { -webkit-transform: translate(.03rem, .03rem) rotate(0deg); }
+10% { -webkit-transform: translate(-.03rem, -.03rem) rotate(-.1deg); }
+20% { -webkit-transform: translate(-.03rem, 0px) rotate(0deg); }
+30% { -webkit-transform: translate(0px, .03rem) rotate(.1deg); }
+40% { -webkit-transform: translate(.03rem, -.03rem) rotate(0deg); }
+50% { -webkit-transform: translate(-.03rem, .03rem) rotate(-.1deg); }
+60% { -webkit-transform: translate(-.03rem, .03rem) rotate(0deg); }
+70% { -webkit-transform: translate(.03rem, .03rem) rotate(.1deg); }
+80% { -webkit-transform: translate(.03rem, -.03rem) rotate(0deg); }
+90% { -webkit-transform: translate(.03rem, .03rem) rotate(-.1deg); }
+100% { -webkit-transform: translate(.03rem, -.03rem) rotate(0deg); }
 }
 
 .shake:hover,

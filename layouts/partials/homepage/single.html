@@ -94,10 +94,11 @@
                 </div>
 
                 {{ with .Site.Params.Footer }}
-                    {{ $target := .target}}
+                    {{ $target := "_self"}}
                     <div class="row-colors right-align">
                         <ul class="main-page-footer horizontal no-bullets no-margin ajjgoldback">
                             {{ range .List }}
+                                {{ $target := .target}}
                                 <li>
                                     <a href="{{ .icon_link }}" target="{{ $target }}">
                                         <i class="fa fa-{{ .icon_class }}"></i>
@@ -105,7 +106,7 @@
                                 </li>
                                 <li>|</li>
                             {{ end }}
-                            <li class="ajj_hidetiny"><span class="ajj_hidetiny">&copy; {{ $year }}&nbsp;</span><a href="{{ .companyHomeURL}}" target="{{ $target }}" class="ajjfont ajjalignlower">{{ $.Site.Copyright | markdownify }}</a></li>
+                            <li><a href="{{ .companyHomeURL}}" target="{{ $target }}" class="ajjfont ajjalignlower">{{ $.Site.Copyright | markdownify }}</a><span class="ajjcopy ajj_hidetiny">&copy; {{ $year }}&nbsp;</span></li>
                         </ul>
                     </div>
                 {{ end }}
