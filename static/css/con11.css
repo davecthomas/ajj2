@@ -696,7 +696,7 @@ ul.fontsizer li a:hover {
 
 .fullsize-background-image {
     background-size: contain;
-    background-position: center;
+    background-position: top;
     background-repeat: no-repeat;
     background-attachment: scroll;
 }
@@ -729,7 +729,7 @@ ul.fontsizer li a:hover {
 .parallax__group {
     position: relative;
     height: 500px; /* fallback for older browsers */
-    height: 60vh;
+    height: 62vh;
 
     -moz-transform-style: preserve-3d;
     -webkit-transform-style: preserve-3d;

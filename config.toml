@@ -1,6 +1,6 @@
 # Overridden default settings
 # MUST have trailing slash
-baseURL = "austinjujitsu.com/"
+baseURL = "http://austinjujitsu.com/"
 languageCode = "en-us"
 newContentEditor = "atom"
 theme = "grid-side"
