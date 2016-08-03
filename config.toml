@@ -53,7 +53,7 @@ metaDataFormat=             "toml"
 # newContentEditor=           ""
 # Don't sync modification time of files
 noTimes=                    false
-paginate=                   20
+paginate=                   30
 paginatePath=               "page"
 # permalinks= NOT SURE WHAT DEFAULT IS
 # Pluralize titles in lists using inflect
