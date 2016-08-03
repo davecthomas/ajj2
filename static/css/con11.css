@@ -9,6 +9,12 @@ h3{
   font-family: 'Pythia';
 }
 
+.ajjalignlower{
+  vertical-align: bottom;
+}
+.@media screen and (min-width: 768px){
+   .ajj_hidetiny { display: none; }
+}
 .ajjgoldtext{
   color: rgba(102,102,69, 1);
 }
@@ -34,6 +40,8 @@ h3{
 }
 
 .con11-tagline{
+  font-size: 3.4rem;
+  line-height: 3rem;
   background-color: rgba(102,102,69, 1);
     color: 	rgb(236,237,237);
 }
@@ -693,13 +701,13 @@ ul.fontsizer li a:hover {
 #fontsizer-medium    {  font-size:1.4rem !important;}
 #fontsizer-large     {  font-size:1.6rem  !important;}
 
-
 .fullsize-background-image {
-    background-size: contain;
+    background-size:contain;
     background-position: top;
     background-repeat: no-repeat;
     background-attachment: scroll;
 }
+
 
 .no-line-height {
     line-height: 0;
@@ -729,7 +737,7 @@ ul.fontsizer li a:hover {
     position: relative;
     vertical-align: top;
     height: 500px; /* fallback for older browsers */
-    height: 68vh;
+    height: 60vh;
 
     -moz-transform-style: preserve-3d;
     -webkit-transform-style: preserve-3d;
@@ -742,7 +750,7 @@ ul.fontsizer li a:hover {
 
 .parallax__layer {
     position: absolute;
-    top: 0px;
+    top: 47px;
     right: 0px;
     bottom: 0px;
     left: 0px;
@@ -771,7 +779,11 @@ ul.fontsizer li a:hover {
   -moz-transform: translateZ(0);
   -webkit-transform: translate(0));
   transform: translateZ(0);
-  z-index: 0;
+  z-index: -1;
+}
+.ajjbigger{
+  transform: scale(1.1);
+  transform-origin: center;
 }
 
 .parallax__layer--deep {

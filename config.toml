@@ -223,6 +223,11 @@ infinite_scroll = true
      #
      [[Params.Footer.List]]
 
+         icon_class = "rss"
+         icon_link = "/blogs/jits-happens"
+
+     [[Params.Footer.List]]
+
          icon_class = "twitter"
          icon_link = "http://twitter.com/austinjiujitsu"
 
@@ -233,25 +238,24 @@ infinite_scroll = true
 
      [[Params.Footer.List]]
 
-         icon_class = "google-plus"
-         icon_link = "http://plus.google.com/+DavidThomas1"
+         icon_class = "youtube"
+         icon_link = "http://www.youtube.com/austinjiujitsu"
 
      [[Params.Footer.List]]
 
-         icon_class = "youtube"
-         icon_link = "http://www.youtube.com/austinjiujitsu"
+         icon_class = "picture-o"
+         icon_link = "http://picasaweb.google.com/dthomasjiujitsu"
+
+     [[Params.Footer.List]]
+
+         icon_class = "google-plus"
+         icon_link = "http://plus.google.com/+DavidThomas1"
 
      [[Params.Footer.List]]
 
             icon_class = "instagram"
             icon_link = "http://www.instagram.com/davecthomas/"
 
-     [[Params.Footer.List]]
-
-         icon_class = "link"
-         icon_link = "http://austinjiujitsu.com"
-         icon_override = true
-         image = "img/p0wn-50x50.png"
 
 # Post settings
 [Params.Post]
@@ -323,8 +327,8 @@ infinite_scroll = true
          image = "img/authors/dave-thomas.jpg"
 
      [[Params.Cells.List]]
-
-         name = "Topics"
+        # The I is capitalized on purpose, since Pythia's lower case I is ugly
+         name = "TopIcs"
          always_show_text = true
          grayscale = true
          link = "topics/"
@@ -335,7 +339,7 @@ infinite_scroll = true
          name = "Blog"
          always_show_text = true
          grayscale = true
-         link = "blogs/"
+         link = "blogs/jits-happens"
          image = "img/jits-happens.png"
 
      [[Params.Cells.List]]

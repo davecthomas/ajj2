@@ -25,7 +25,7 @@
 
                     {{ partial "homepage/header-logo.html" . }}
                 </div>
-                <div class="parallax__layer parallax__layer--back {{ if .image }}fullsize-background-image{{ end }}"
+                <div class="parallax__layer parallax__layer--back {{ if .image }}fullsize-background-image ajjbigger{{ end }}"
                     {{ if .image }}
                         style="background-image: url('{{ $baseUrl }}{{ .image }}'); {{ with .image_position }}background-position: {{ . }};{{ end }}"
                     {{ else }}
@@ -105,7 +105,7 @@
                                 </li>
                                 <li>|</li>
                             {{ end }}
-                            <li>&copy; {{ $year }}&nbsp;<a href="{{ .companyHomeURL}}" target="{{ $target }}" class="ajjfont">{{ $.Site.Copyright | markdownify }}</a></li>
+                            <li class="ajj_hidetiny"><span class="ajj_hidetiny">&copy; {{ $year }}&nbsp;</span><a href="{{ .companyHomeURL}}" target="{{ $target }}" class="ajjfont ajjalignlower">{{ $.Site.Copyright | markdownify }}</a></li>
                         </ul>
                     </div>
                 {{ end }}

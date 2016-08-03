@@ -3,7 +3,7 @@
 <nav class="main-menu menu-colors ">
     <ul class="menu menu-colors no-list-float ajjgoldback">
         <li><a href="{{ $baseUrl }}"><i class="fa fa-home fa-2x"></i></a></li>
-        {{/* Custom bars menu allows submenus */}}
+        {{/* Custom bars menu allows submenus
         <li>
             <a href="#!"><i class="fa fa-bars fa-2x"></i></a>
 
@@ -36,6 +36,7 @@
                 {{ end }}
             </ul>
         </li>
+        {{*/}}
         <li><a href="#!" data-lightbox-id="searchbox"><i class="fa fa-search fa-2x"></i></a></li>
         {{ with .Site.Params.Footer }}
           {{ $target := .target}}
@@ -48,12 +49,14 @@
                 </li>
             {{ end }}
         {{ end }}
+        {{/*}}
         <li class="blue-grey-text" style="border-top: 1px solid;"><!-- Separator --></li>
         <li>
             <a href="{{ .RSSLink }}" type="application/rss+xml" target="_blank">
                 <i class="fa fa-rss fa-2x"></i>
             </a>
         </li>
+        {{*/}}
     </ul>
 </nav>
 
