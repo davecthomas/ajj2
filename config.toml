@@ -357,8 +357,17 @@ infinite_scroll = true
 
      [[Params.Cells.List]]
 
-         name = "Tags"
-         always_show_text = true
-         grayscale = true
-         link = "tags/"
-         image = "img/team.jpg"
+       name = "DoIng Good"
+       always_show_text = true
+       grayscale = true
+       link = "doing-good/jits-happens"
+       image = "img/ajj-mask-logo.png"
+
+
+    [[Params.Cells.List]]
+
+       name = "Tags"
+       always_show_text = true
+       grayscale = true
+       link = "tags/"
+       image = "img/team.jpg"
