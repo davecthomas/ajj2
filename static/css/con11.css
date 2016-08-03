@@ -19,6 +19,9 @@ h3{
   text-align: right; vertical-align: bottom;
   font-size: 0.6rem;
 }
+.ajjnowrap{
+  white-space: nowrap;
+}
 .ajjgoldtext{
   color: rgba(102,102,69, 1);
 }
