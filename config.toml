@@ -186,7 +186,7 @@ infinite_scroll = true
      # This is optional
      email = ""
 
-     image = "img/ajj-mask-logo.png"
+     image = "img/ajj-skull-graphic.png"
 
      # redirect on click of main logo
      redirectOnClick = true
@@ -196,7 +196,7 @@ infinite_scroll = true
 
      # This uses the CSS background-position, given the image above is set,
      # useful when you want to adjust where the background-image lands
-     #image_position = ""
+     # image_position = "top"
 
      # This must be provided if the image above is not
      #color = "#FFF"

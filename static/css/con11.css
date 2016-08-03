@@ -725,11 +725,11 @@ ul.fontsizer li a:hover {
     -webkit-perspective-origin-x: 100%;
     perspective-origin-x: 100%;
 }
-
 .parallax__group {
     position: relative;
+    vertical-align: top;
     height: 500px; /* fallback for older browsers */
-    height: 62vh;
+    height: 68vh;
 
     -moz-transform-style: preserve-3d;
     -webkit-transform-style: preserve-3d;
@@ -768,10 +768,10 @@ ul.fontsizer li a:hover {
 }
 
 .parallax__layer--back {
-    -moz-transform: translateZ(-300px) scale(2);
-    -webkit-transform: translateZ(-300px) scale(2);
-    transform: translateZ(-300px) scale(2);
-    z-index: 3;
+  -moz-transform: translateZ(0);
+  -webkit-transform: translate(0));
+  transform: translateZ(0);
+  z-index: 0;
 }
 
 .parallax__layer--deep {
