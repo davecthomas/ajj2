@@ -23,4 +23,4 @@ I have previously discussed the importance of flow as a means of unleashing crea
 
 The slow march towards mastery includes moments where your growth, energy, and motivation are at their greatest. Coincidentally with my discussions on this topic, Pink calls this "flow." He equates flow with play, in that the labors and efforts of the work you are engaged in become effervescent and lost in the moment of unconscious progress you enjoy in flow. How can you find your flow and how can you make this a means to accelerate growth and enjoyment? How do we work to get lost in the moment? Translated as a Zen kōan, we should concentrate maximum effort to release effortless play. The more you flow, the more you grow, and the more fun you have on the path. Having fun is a great counter balance to the pain of training hard.
 
-Read my article on [flow](({{< ref "post/blog-flow.md" >}})). Think about how you experience flow on the mats. Relax, be patient, have fun, and flow.
+Read my article on [flow](({{< ref "blog/blog-flow.md" >}})). Think about how you experience flow on the mats. Relax, be patient, have fun, and flow.

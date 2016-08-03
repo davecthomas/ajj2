@@ -25,4 +25,4 @@ David Thomas of Austin, Texas has been training, competing, and coaching since J
 - Licensed by the Texas Combative Sports/Boxing Commission as an MMA Cornerman (2009)
 
 #### Jits Happens
-Read Dave's blog, [Jits Happens](http://jitshappens.com "Dave's Blog")
+Read Dave's blog, [Jits Happens](/blog)
