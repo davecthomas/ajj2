@@ -3,7 +3,7 @@ topics = ["coaches"]
 coaches = ["Jake Britt"]
 authorimages = ["jake-britt.jpg"]
 date = "2016-07-31T15:25:09-05:00"
-tags = ["bjj"]
+tags = ["bjj", "wrestling"]
 title = "Coach Jake Britt"
 weight = 13
 

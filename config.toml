@@ -107,7 +107,7 @@ tag = "tags"
 topic = "topics"
 coach = "coaches"
 blog = "blogs"
-
+doing-good = "doing-good"
 
 # gridside The theme supports menus with up to one submenu per menu item
 # The menu name must be "Main"
@@ -360,7 +360,7 @@ infinite_scroll = true
        name = "DoIng Good"
        always_show_text = true
        grayscale = true
-       link = "doing-good/jits-happens"
+       link = "doing-good/"
        image = "img/ajj-mask-logo.png"
 
 
