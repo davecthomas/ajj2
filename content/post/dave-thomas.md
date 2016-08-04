@@ -11,7 +11,16 @@ weight = 2
 
 >There is great happiness in the lifelong pursuit of human potential."<cite>-Coach David Thomas</cite>
 
-David Thomas of Austin, Texas is founder and Head Coach of Austin Jiu-Jitsu (Self-Defense Mentor, LLC), offering self-defense instruction, consulting, and training. Dave is proud to have built Austin Jiu-Jitsu from a small group of friends in his garage to a thriving community of dedicated students over the past 14 years. He is best known for his technical approach,  unconventional style, development a program for women, and developing the talent of his team of coaches.
+David Thomas of Austin, Texas is founder and Head Coach of Austin Jiu-Jitsu (Self-Defense Mentor, LLC), offering self-defense instruction, consulting, and training. Dave is proud to have built Austin Jiu-Jitsu from a small group of friends in his garage to a thriving community of dedicated students over the past 14 years.
+
+##### Dave is well known for:
+* His student-centric approach, helping them on their personal journey toward mastery.
+* His highly technical skills
+* An unconventional, creative fighting style
+* Development of a successful women's program, which enjoys a significantly high ratio of women to men -- which is unusual in BJJ
+* Developing the talent of his team of coaches
+* His prolific writing on training, coaching, and service toward the student in his blog, [Jits Happens](/blog)
+* The creation of BJJTech.com, the largest single-sourced collection of BJJ techniques on the web.
 
 ![Coach Dave](/img/authors/dave-thomas.jpg)
 
@@ -34,7 +43,7 @@ When he isn't training and coaching, Dave enjoys a great [career](https://www.li
 * Diverse martial arts training background including MMA, Thai Boxing, Jeet Kune Do, Karate, Aikido, and Judo
 * Licensed by the Texas Department of Public Safety Private Security Bureau (2005)
 * Licensed by the Texas Combative Sports/Boxing Commission as an MMA Cornerman (2009)
-* Developed BJJTech.com, the largest single-sourced collection of BJJ techniques on the web. 
+* Developed BJJTech.com, the largest single-sourced collection of BJJ techniques on the web.
 
 #### Jits Happens
 Read Dave's blog, [Jits Happens](/blog)
