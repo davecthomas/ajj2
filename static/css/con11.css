@@ -1095,3 +1095,7 @@ ul.pagination {
         width: calc(33.33% - 20px);
     }
 }
+
+ul {
+    list-style-type: circle;
+}
