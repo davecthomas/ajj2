@@ -341,7 +341,7 @@ infinite_scroll = true
 
      [[Params.Cells.List]]
         # The I is capitalized on purpose, since Pythia's lower case I is ugly
-         name = "TopIcs"
+         name = "Topics"
          always_show_text = true
          grayscale = true
          link = "topics/"
@@ -349,20 +349,28 @@ infinite_scroll = true
 
      [[Params.Cells.List]]
 
-         name = "Blog"
+         name = "Blog: Jits Happens"
          always_show_text = true
          grayscale = true
-         link = "blogs/jits-happens"
+         outlink = "http://jitshappens.com"
          image = "img/jits-happens.png"
 
      [[Params.Cells.List]]
 
-       name = "DoIng Good"
+       name = "Doing Good"
        always_show_text = true
        grayscale = true
        link = "doing-good/"
        image = "img/ajj-mask-logo.png"
 
+
+     [[Params.Cells.List]]
+
+       name = "Techniques"
+       always_show_text = true
+       grayscale = true
+       outlink = "http://bjjtech.com"
+       image = "img/bjj-tech-logo-footer.png"
 
     [[Params.Cells.List]]
 

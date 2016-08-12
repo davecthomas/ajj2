@@ -51,7 +51,11 @@
                              Note: The link and contents must be here since we
                              cannot pass .Site.BaseURL as part of the context
                         -->
-                        <a href="{{ if .disable }}#!{{ else }}{{ $baseUrl }}{{ .link }}{{ end }}" class="flex-item">
+                        {{ if .outlink }}
+                          <a href="{{ if .disable }}#!{{ else }}{{ .outlink }}{{ end }}" class="flex-item">
+                        {{ else }}
+                          <a href="{{ if .disable }}#!{{ else }}{{ $baseUrl }}{{ .link }}{{ end }}" class="flex-item">
+                        {{ end}}
                           <div class="highlight-parent shake">
                             <div class="cell
                                 fill-container
@@ -78,13 +82,13 @@
                                 <!-- Show text permanently -->
                                 {{ if eq .always_show_text true }}
                                     <div class="center-items center-text fill-container black-overlay shake">
-                                        <h3 class="white-text ajjfont">{{ .name }}</h3>
+                                        <h3 class="white-text campton-font">{{ .name }}</h3>
                                     </div>
                                 {{ end }}
 
                                 {{ if not (or (eq .no_highlight true) .disable) }}
                                     <div class="highlight-block shake">
-                                        <h3 class="ajjgoldtext ajjfont">{{ .name }}</h3>
+                                        <h3 class="ajjgoldtext campton-font">{{ .name }}</h3>
                                     </div>
                                 {{ end }}
                             </div>

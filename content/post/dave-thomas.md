@@ -13,14 +13,14 @@ weight = 2
 
 David Thomas of Austin, Texas is founder and Head Coach of Austin Jiu-Jitsu (Self-Defense Mentor, LLC), offering self-defense instruction, consulting, and training. Dave is proud to have built Austin Jiu-Jitsu from a small group of friends in his garage to a thriving community of dedicated students over the past 14 years.
 
-##### Dave is well known for:
+##### Some of Dave's contributions include
 * His student-centric approach, helping them on their personal journey toward mastery.
 * His highly technical skills
 * An unconventional, creative fighting style
 * Development of a successful women's program, which enjoys a significantly high ratio of women to men -- which is unusual in BJJ
 * Developing the talent of his team of coaches
 * His prolific writing on training, coaching, and service toward the student in his blog, [Jits Happens](/blog)
-* The creation of BJJTech.com, the largest single-sourced collection of BJJ techniques on the web.
+* The creation of [BJJTech.com](bjjtech.com), the largest single-sourced collection of BJJ techniques on the web.
 
 ![Coach Dave](/img/authors/dave-thomas.jpg)
 
