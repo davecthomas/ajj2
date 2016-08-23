@@ -269,6 +269,12 @@ infinite_scroll = true
         # Links open in new tab
         target = "_blank"
 
+      [[Params.Footer.List]]
+
+       icon_text = "BJJTech"
+       icon_link = "http://www.bjjtech.com/"
+       # Links open in new tab
+       target = "_self"
 
 # Post settings
 [Params.Post]
@@ -357,20 +363,20 @@ infinite_scroll = true
 
      [[Params.Cells.List]]
 
+       name = "Techniques at BJJTech.com"
+       always_show_text = true
+       grayscale = true
+       outlink = "http://bjjtech.com"
+       image = "img/bjj-tech-logo-footer.png"
+
+     [[Params.Cells.List]]
+
        name = "Doing Good"
        always_show_text = true
        grayscale = true
        link = "doing-good/"
        image = "img/ajj-mask-logo.png"
 
-
-     [[Params.Cells.List]]
-
-       name = "Techniques"
-       always_show_text = true
-       grayscale = true
-       outlink = "http://bjjtech.com"
-       image = "img/bjj-tech-logo-footer.png"
 
     [[Params.Cells.List]]
 

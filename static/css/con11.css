@@ -7,6 +7,7 @@ h3{
 
 .ajjfont{
   font-family: 'Pythia';
+      text-shadow: 0 0 0.3em rgba(0, 0, 0, 0.6), 0 0 0.3em rgba(0, 0, 0, 0.6), 0 0 0.3em rgba(0, 0, 0, 0.6);
 }
 
 .campton-font{
@@ -218,6 +219,7 @@ table td:first-child { border-left: none; }
     background-color: rgb(79,79,81);
     color: #FFFFFF;
 }
+
 
 /* NOTE: Renable pointer events since parent disables them (allows hover) */
 /* NOTE: Setting width here to counterbalance 100% of parent */
@@ -895,7 +897,18 @@ element {
 /* ========================================================================= */
 /* = LISTS                                                                   */
 /* ========================================================================= */
-
+.bjjt_tag {
+    font-family: 'Syncopate', sans-serif;
+    color: white;
+    font-size: large;
+    vertical-align: middle;
+}
+.hoverglow:hover{
+  color: black;
+}
+.shadow{
+  text-shadow: 0 0 0.3em rgba(0, 0, 0, 0.6), 0 0 0.3em rgba(0, 0, 0, 0.6), 0 0 0.3em rgba(0, 0, 0, 0.6);
+}
 ul.main-page-footer li {
     color: #FFFFFF;
     font-size: 2em;
@@ -1102,4 +1115,7 @@ ul.pagination {
 
 ul {
     list-style-type: circle;
+}
+.ajjtinytext{
+  font-size: 0.55rem;
 }

@@ -2,7 +2,7 @@
 {{ $baseUrl := .Site.BaseURL }}
 <nav class="main-menu menu-colors ">
     <ul class="menu menu-colors no-list-float ajjgoldback">
-        <li><a href="{{ $baseUrl }}"><i class="fa fa-home fa-2x"></i></a></li>
+        <li><a href="{{ $baseUrl }}" class="hoverglow shadow"><i class="fa fa-home fa-2x"></i></a></li>
         {{/* Custom bars menu allows submenus
         <li>
             <a href="#!"><i class="fa fa-bars fa-2x"></i></a>
@@ -37,14 +37,18 @@
             </ul>
         </li>
         {{*/}}
-        <li><a href="#!" data-lightbox-id="searchbox"><i class="fa fa-search fa-2x"></i></a></li>
+        <li><a href="#!" data-lightbox-id="searchbox" class="hoverglow shadow"><i class="fa fa-search fa-2x"></i></a></li>
         {{ with .Site.Params.Footer }}
             <li class="blue-grey-text" style="border-top: 1px solid;"><!-- Separator --></li>
             {{ range .List }}
                 {{ $target := .target}}
                 <li>
-                    <a href="{{ .icon_link }}"  target="{{ $target }}">
+                    <a href="{{ .icon_link }}"  target="{{ $target }}" class="hoverglow shadow">
+                      {{ if .icon_text }}
+                      <span class="bjjt_tag ajjnowrap ajjtinytext hoverglow">{{- .icon_text}}</span>
+                      {{ else }}
                         <i class="fa fa-{{ .icon_class }} fa-2x"></i>
+                        {{ end }}
                     </a>
                 </li>
             {{ end }}

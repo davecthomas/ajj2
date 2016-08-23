@@ -104,13 +104,18 @@
                             {{ range .List }}
                                 {{ $target := .target}}
                                 <li>
-                                    <a href="{{ .icon_link }}" target="{{ $target }}">
+                                <a href="{{ .icon_link }}" target="{{ $target }}" class="hoverglow shadow">
+
+                                      {{ if .icon_text }}
+                                      <span class="bjjt_tag ajjnowrap">{{- .icon_text}}</span>
+                                      {{ else }}
                                         <i class="fa fa-{{ .icon_class }}"></i>
-                                    </a>
-                                </li>
-                                <li>|</li>
+                                      </a>
+                                      {{ end }}
+                                      </li>
+                          {{/*  <li>|</li> */}}
                             {{ end }}
-                            <li><a href="{{ .companyHomeURL}}" target="{{ $target }}" class="ajjfont ajjalignlower ajjnowrap">{{ $.Site.Copyright | markdownify }}</a><span class="ajjcopy ajj_hidetiny">&copy; {{ $year }}&nbsp;</span></li>
+                            <li><a href="{{ .companyHomeURL}}" target="{{ $target }}" class="ajjfont ajjalignlower ajjnowrap hoverglow shadow">{{ $.Site.Copyright | markdownify }}</a><span class="ajjcopy ajj_hidetiny">&copy; {{ $year }}&nbsp;</span></li>
                         </ul>
                     </div>
                 {{ end }}
