@@ -23,8 +23,6 @@ Training with Austin Jiu-Jitsu is guaranteed to raise your awareness, understand
 
 - [Brazilian Jiu-Jitsu]({{< ref "post/brazilian-jiu-jitsu.md">}}) & Submission Grappling
 
-- Wrestling (Folkstyle, Greco, Freestyle)
-
 - Strength and Mobility
 
 ### Our History

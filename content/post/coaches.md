@@ -15,9 +15,13 @@ toc = true
 
 [About Coach Dave]({{< ref "post/dave-thomas.md" >}})
 
-### Wrestling Coach Jake Britt
+### Assistant Coach John Martinich
 
-[About Jake]({{< ref "post/jake-britt.md" >}})
+[About John]({{< ref "post/john-martinich.md" >}})
+
+### Women's Coach Christine Thomas
+
+[About Coach Dave]({{< ref "post/christine-thomas.md" >}})
 
 ### Strength and Mobility Coach Jacob Primeaux
 

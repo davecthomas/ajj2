@@ -134,7 +134,7 @@ Our all access classes require two PayPal subscriptions. Students pay two fees f
     <td width="50%"  ><b>3 months</b></td>
   </tr>
 <tr>
-  <td width="50%"  >$180 - You must select all 3 buttons!<br>
+  <td width="50%"  >$150 - You must select both buttons!<br>
   Gym access fee
       <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
     <input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but20.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!" width="62" height="31">
@@ -146,29 +146,12 @@ Our all access classes require two PayPal subscriptions. Students pay two fees f
     <input type="hidden" name="return" value="http://www.austinjiujitsu.com/ajj/goods/thanks.html">
     <input type="hidden" name="no_note" value="1">
     <input type="hidden" name="currency_code" value="USD">
-    <input type="hidden" name="a3" value="135">
+    <input type="hidden" name="a3" value="113">
     <input type="hidden" name="p3" value="1">
     <input type="hidden" name="t3" value="M">
     <input type="hidden" name="src" value="1">
     <input type="hidden" name="sra" value="1">
     </form>
-Wrestling class package    
-    <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-  <input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but20.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!" width="62" height="31">
-  <input type="hidden" name="cmd" value="_xclick-subscriptions">
-  <input type="hidden" name="business" value="jakebritt12@yahoo.com">
-  <input type="hidden" name="item_name" value="Wrestling All access fee for 1 month">
-  <input type="hidden" name="item_number" value="wrestling-all-u-1m">
-  <input type="hidden" name="no_shipping" value="1">
-  <input type="hidden" name="return" value="http://www.austinjiujitsu.com/ajj/goods/thanks.html">
-  <input type="hidden" name="no_note" value="1">
-  <input type="hidden" name="currency_code" value="USD">
-  <input type="hidden" name="a3" value="23.00">
-  <input type="hidden" name="p3" value="1">
-  <input type="hidden" name="t3" value="M">
-  <input type="hidden" name="src" value="1">
-  <input type="hidden" name="sra" value="1">
-  </form>
 Strength class package  
   <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but20.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!" width="62" height="31">
@@ -180,7 +163,7 @@ Strength class package
 <input type="hidden" name="return" value="http://www.austinjiujitsu.com/ajj/goods/thanks.html">
 <input type="hidden" name="no_note" value="1">
 <input type="hidden" name="currency_code" value="USD">
-<input type="hidden" name="a3" value="23.00">
+<input type="hidden" name="a3" value="38.00">
 <input type="hidden" name="p3" value="1">
 <input type="hidden" name="t3" value="M">
 <input type="hidden" name="src" value="1">
@@ -188,7 +171,7 @@ Strength class package
 </form>
   </td>
 
-  <td width="50%"  >$500 - You must select all 3 buttons!<br>
+  <td width="50%"  >$400 - You must select both buttons!<br>
   Gym access fee
       <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
     <input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but20.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!" width="62" height="31">
@@ -200,29 +183,13 @@ Strength class package
     <input type="hidden" name="return" value="http://www.austinjiujitsu.com/ajj/goods/thanks.html">
     <input type="hidden" name="no_note" value="1">
     <input type="hidden" name="currency_code" value="USD">
-    <input type="hidden" name="a3" value="375">
+    <input type="hidden" name="a3" value="300">
     <input type="hidden" name="p3" value="3">
     <input type="hidden" name="t3" value="M">
     <input type="hidden" name="src" value="1">
     <input type="hidden" name="sra" value="1">
     </form>
- Wrestling Class Package    
-    <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-  <input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but20.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!" width="62" height="31">
-  <input type="hidden" name="cmd" value="_xclick-subscriptions">
-  <input type="hidden" name="business" value="jakebritt12@yahoo.com">
-  <input type="hidden" name="item_name" value="Wrestling All access fee for 3 months">
-  <input type="hidden" name="item_number" value="wrestling-all-u-3m">
-  <input type="hidden" name="no_shipping" value="1">
-  <input type="hidden" name="return" value="http://www.austinjiujitsu.com/ajj/goods/thanks.html">
-  <input type="hidden" name="no_note" value="1">
-  <input type="hidden" name="currency_code" value="USD">
-  <input type="hidden" name="a3" value="63">
-  <input type="hidden" name="p3" value="3">
-  <input type="hidden" name="t3" value="M">
-  <input type="hidden" name="src" value="1">
-  <input type="hidden" name="sra" value="1">
-  </form>
+
   Strength Class Package
   <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but20.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!" width="62" height="31">
@@ -234,7 +201,7 @@ Strength class package
 <input type="hidden" name="return" value="http://www.austinjiujitsu.com/ajj/goods/thanks.html">
 <input type="hidden" name="no_note" value="1">
 <input type="hidden" name="currency_code" value="USD">
-<input type="hidden" name="a3" value="63">
+<input type="hidden" name="a3" value="100">
 <input type="hidden" name="p3" value="3">
 <input type="hidden" name="t3" value="M">
 <input type="hidden" name="src" value="1">
@@ -245,163 +212,6 @@ Strength class package
 </table>
 </div>
 </div>
-
-
-#### Wrestling
-Learn more about our [wrestling program]({{ < ref "post/wrestling.md" >}}).
-Contact [the coach]{{< ref "post/wrestling.md" >}} of this program directly with pricing questions.
-Students pay two fees for these classes: one for instruction, and one is a gym access fee. Both subscriptions must be maintained. Please click both buttons in the chosen table below to ensure you sign up appropriately.
-
-
-<div class="container">
-<div class="row">
-<table class="bordered">
-  <tr>
-    <td width="20%"  ><b>1 month</b></td>
-    <td width="20%"  ><b>3 months</b></td>
-    <td width="20%"  ><b>Private lesson for one</b></td>
-    <td width="20%"  ><b>Private lesson for two</b></td>
-  </tr>
-  <tr>
-    <td width="20%"  >$125 - You must select both buttons!<br>
-Wrestling class package    
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-      <input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but20.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!" width="62" height="31">
-      <input type="hidden" name="cmd" value="_xclick-subscriptions">
-      <input type="hidden" name="business" value="jakebritt12@yahoo.com">
-      <input type="hidden" name="item_name" value="Unlimited classes for 1 month">
-      <input type="hidden" name="item_number" value="wrestle-u-1m">
-      <input type="hidden" name="no_shipping" value="1">
-      <input type="hidden" name="return" value="http://www.austinjiujitsu.com/ajj/goods/thanks.html">
-      <input type="hidden" name="no_note" value="1">
-      <input type="hidden" name="currency_code" value="USD">
-      <input type="hidden" name="a3" value="100.00">
-      <input type="hidden" name="p3" value="1">
-      <input type="hidden" name="t3" value="M">
-      <input type="hidden" name="src" value="1">
-      <input type="hidden" name="sra" value="1">
-      </form>
-Gym access fee      
-      <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-    <input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but20.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!" width="62" height="31">
-    <input type="hidden" name="cmd" value="_xclick-subscriptions">
-    <input type="hidden" name="business" value="orders@austinjiujitsu.com">
-    <input type="hidden" name="item_name" value="Wrestling access fee for 1 month">
-    <input type="hidden" name="item_number" value="ajj-access-fee-u-1m">
-    <input type="hidden" name="no_shipping" value="1">
-    <input type="hidden" name="return" value="http://www.austinjiujitsu.com/ajj/goods/thanks.html">
-    <input type="hidden" name="no_note" value="1">
-    <input type="hidden" name="currency_code" value="USD">
-    <input type="hidden" name="a3" value="25.00">
-    <input type="hidden" name="p3" value="1">
-    <input type="hidden" name="t3" value="M">
-    <input type="hidden" name="src" value="1">
-    <input type="hidden" name="sra" value="1">
-    </form>
-    </td>
-    <td width="20%"  >$340 for 3 months - You must select both buttons!<br>
-Wrestling class package    
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-      <input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but20.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!" width="62" height="31">
-      <input type="hidden" name="cmd" value="_xclick-subscriptions">
-      <input type="hidden" name="business" value="jakebritt12@yahoo.com">
-      <input type="hidden" name="item_name" value="Unlimited classes for 1 month">
-      <input type="hidden" name="item_number" value="wrestle-u-3m">
-      <input type="hidden" name="no_shipping" value="1">
-      <input type="hidden" name="return" value="http://www.austinjiujitsu.com/ajj/goods/thanks.html">
-      <input type="hidden" name="no_note" value="1">
-      <input type="hidden" name="currency_code" value="USD">
-      <input type="hidden" name="a3" value="272.00">
-      <input type="hidden" name="p3" value="1">
-      <input type="hidden" name="t3" value="M">
-      <input type="hidden" name="src" value="1">
-      <input type="hidden" name="sra" value="1">
-      </form>
-Gym access fee      
-      <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-    <input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but20.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!" width="62" height="31">
-    <input type="hidden" name="cmd" value="_xclick-subscriptions">
-    <input type="hidden" name="business" value="orders@austinjiujitsu.com">
-    <input type="hidden" name="item_name" value="Wrestling access fee for 3 months">
-    <input type="hidden" name="item_number" value="ajj-access-fee-u-1m">
-    <input type="hidden" name="no_shipping" value="1">
-    <input type="hidden" name="return" value="http://www.austinjiujitsu.com/ajj/goods/thanks.html">
-    <input type="hidden" name="no_note" value="1">
-    <input type="hidden" name="currency_code" value="USD">
-    <input type="hidden" name="a3" value="68.00">
-    <input type="hidden" name="p3" value="1">
-    <input type="hidden" name="t3" value="M">
-    <input type="hidden" name="src" value="1">
-    <input type="hidden" name="sra" value="1">
-    </form>
-
-    </td>
-    <td width="20%"  >$75 per hour - You must select both buttons!<br>
-Wrestling class package    
-      <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-<input type="hidden" name="cmd" value="_cart">
-<input type="hidden" name="business" value="jakebritt12@yahoo.com">
-<input type="hidden" name="item_name" value="Private instruction: 1 hour wrestling">
-<input type="hidden" name="item_number" value="wrestle_private1">
-<input type="hidden" name="amount" value="60">
-<input type="hidden" name="return" value="http://www.austinjiujitsu.com/ajj/goods/thanks.html">
-<input type="hidden" name="cancel_return" value="http://www.austinjiujitsu.com/ajj/goods/index.php">
-<input type="hidden" name="no_note" value="1">
-<input type="hidden" name="currency_code" value="USD">
-<input type="image" src="https://www.paypal.com/images/x-click-but22.gif" border="0" name="I1" alt="Make payments with PayPal - it's fast, free and secure!" width="87" height="23">
-<input type="hidden" name="add" value="1">
-</form>
-Gym access fee
-<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-<input type="hidden" name="cmd" value="_cart">
-<input type="hidden" name="business" value="orders@austinjiujitsu.com">
-<input type="hidden" name="item_name" value="1 hour access fee">
-<input type="hidden" name="item_number" value="wrestle_private1_access">
-<input type="hidden" name="amount" value="15">
-<input type="hidden" name="return" value="http://www.austinjiujitsu.com/ajj/goods/thanks.html">
-<input type="hidden" name="cancel_return" value="http://www.austinjiujitsu.com/ajj/goods/index.php">
-<input type="hidden" name="no_note" value="1">
-<input type="hidden" name="currency_code" value="USD">
-<input type="image" src="https://www.paypal.com/images/x-click-but22.gif" border="0" name="I1" alt="Make payments with PayPal - it's fast, free and secure!" width="87" height="23">
-<input type="hidden" name="add" value="1">
-</form>
-
-    </td>
-    <td width="20%"  >$115 per hour - You must select both buttons!<br>
-Wrestling class package    
-        <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-      <input type="hidden" name="cmd" value="_cart">
-      <input type="hidden" name="business" value="jakebritt12@yahoo.com">
-      <input type="hidden" name="item_name" value="Private instruction: 1 hour wrestling">
-      <input type="hidden" name="item_number" value="wrestle_private2">
-      <input type="hidden" name="amount" value="92">
-      <input type="hidden" name="return" value="http://www.austinjiujitsu.com/ajj/goods/thanks.html">
-      <input type="hidden" name="cancel_return" value="http://www.austinjiujitsu.com/ajj/goods/index.php">
-      <input type="hidden" name="no_note" value="1">
-      <input type="hidden" name="currency_code" value="USD">
-      <input type="image" src="https://www.paypal.com/images/x-click-but22.gif" border="0" name="I1" alt="Make payments with PayPal - it's fast, free and secure!" width="87" height="23">
-      <input type="hidden" name="add" value="1">
-      </form>
-Gym access fee      
-      <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-      <input type="hidden" name="cmd" value="_cart">
-      <input type="hidden" name="business" value="orders@austinjiujitsu.com">
-      <input type="hidden" name="item_name" value="1 hour access fee 2">
-      <input type="hidden" name="item_number" value="wrestle_private2_access">
-      <input type="hidden" name="amount" value="23">
-      <input type="hidden" name="return" value="http://www.austinjiujitsu.com/ajj/goods/thanks.html">
-      <input type="hidden" name="cancel_return" value="http://www.austinjiujitsu.com/ajj/goods/index.php">
-      <input type="hidden" name="no_note" value="1">
-      <input type="hidden" name="currency_code" value="USD">
-      <input type="image" src="https://www.paypal.com/images/x-click-but22.gif" border="0" name="I1" alt="Make payments with PayPal - it's fast, free and secure!" width="87" height="23">
-      <input type="hidden" name="add" value="1">
-      </form>
-    </td>
-  </tr>
-</table>
-</div>
-</div>
-
 
 
 #### Mobility and Strength
