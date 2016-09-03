@@ -1,7 +1,7 @@
 +++
 topics = ["location"]
 date = "2016-07-31T15:25:09-05:00"
-tags = ["bjj", "wrestling", "strength"]
+tags = ["bjj", "parking", "map"]
 title = "Location"
 weight = 6
 
@@ -19,4 +19,4 @@ We're located in UT West Campus, 1 block east of Lamar on the northeast corner o
 
 ### Parking
 
-There is covered parking under the building (enter off the alleyway on the east side of the building). This entrance provides easier access to the gym and is recommended. There is another entrance off Longview on the west side of the building, but it's harder to get in the building from that side. Please park in spots designated as reserved for retail use.
+There is street parking in the area. Do not park in the parking garage, as it is reserved for tenants and you will be towed.
