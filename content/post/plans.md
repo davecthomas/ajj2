@@ -28,7 +28,7 @@ Learn more about our [BJJ program]({{ < ref "post/brazilian-jiu-jitsu.md" >}}).
 <input type="hidden" name="item_name" value="Unlimited classes for 1 month">
 <input type="hidden" name="item_number" value="adult-grapple-u-1m">
 <input type="hidden" name="no_shipping" value="1">
-<input type="hidden" name="return" value="http://www.austinjiujitsu.com/ajj/goods/thanks.html">
+<input type="hidden" name="return" value="http://www.austinjiujitsu.com/ajj/thanks.html">
 <input type="hidden" name="no_note" value="1">
 <input type="hidden" name="currency_code" value="USD">
 <input type="hidden" name="a3" value="110.00">
@@ -61,7 +61,7 @@ $80 annual gym fee<form action="https://www.paypal.com/cgi-bin/webscr" method="p
 <input type="hidden" name="item_name" value="Unlimited classes for 3 months">
 <input type="hidden" name="item_number" value="adult-grapple-u-3m">
 <input type="hidden" name="no_shipping" value="1">
-<input type="hidden" name="return" value="http://www.austinjiujitsu.com/ajj/goods/thanks.html">
+<input type="hidden" name="return" value="http://www.austinjiujitsu.com/ajj/thanks.html">
 <input type="hidden" name="no_note" value="1">
 <input type="hidden" name="currency_code" value="USD">
 <input type="hidden" name="a3" value="300.00">
@@ -94,7 +94,7 @@ $80 annual gym fee<form action="https://www.paypal.com/cgi-bin/webscr" method="p
 <input type="hidden" name="item_name" value="Unlimited classes for 6 months">
 <input type="hidden" name="item_number" value="adult-grapple-u-6m">
 <input type="hidden" name="no_shipping" value="1">
-<input type="hidden" name="return" value="http://www.austinjiujitsu.com/ajj/goods/thanks.html">
+<input type="hidden" name="return" value="http://www.austinjiujitsu.com/ajj/thanks.html">
 <input type="hidden" name="no_note" value="1">
 <input type="hidden" name="currency_code" value="USD">
 <input type="hidden" name="a3" value="590.00">
@@ -130,4 +130,4 @@ In the plans above, you must select all buttons to ensure you pay for the gym fe
 
 ### No Refunds
 
-You can cancel your subscription through [PayPal]({{< ref "post/paypal.md" >}}), to prevent future payments, at any time. There are no refunds for payments, once submitted. 
+You can cancel your subscription through [PayPal]({{< ref "post/paypal.md" >}}), to prevent future payments, at any time. There are no refunds for payments, once submitted.
