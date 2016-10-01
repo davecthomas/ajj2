@@ -127,3 +127,7 @@ $80 annual gym fee<form action="https://www.paypal.com/cgi-bin/webscr" method="p
 
 Every program has two price components: a class package price and a gym access fee. The gym access fee is paid via [PayPal subscription]({{< ref "post/paypal.md" >}}), and is mandatory for all members.
 In the plans above, you must select all buttons to ensure you pay for the gym fee.
+
+### No Refunds
+
+You can cancel your subscription through [PayPal]({{< ref "post/paypal.md" >}}), to prevent future payments, at any time. There are no refunds for payments, once submitted. 

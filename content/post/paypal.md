@@ -18,3 +18,7 @@ Payments made online include a small online processing fee from PayPal. This amo
 #### About Recurring Payments (Subscriptions)
 
 Dues that are paid must paid via a PayPal subscription. When you subscribe you will be automatically paying periodically (every 3, 6, or 12 months, depending on your payment plan) via PayPal. You may choose to cancel future payments at any time by [unsubscribing with PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_subscr-find&alias=orders@austinjiujitsu.com ""). There are no refunds for unused portions of payments or unused classes. At the end of your subscription period, any unused classes expire. Prices are subject to change without notice and may require current members to renew subscriptions at a new rate.
+
+### No Refunds
+
+You can cancel your subscription via your account at PayPal, at any time, to prevent future payments. There are no refunds for payments, once submitted.

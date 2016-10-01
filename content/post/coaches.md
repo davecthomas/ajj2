@@ -22,7 +22,3 @@ toc = true
 ### Women's Coach Christine Thomas
 
 [About Coach Dave]({{< ref "post/christine-thomas.md" >}})
-
-### Strength and Mobility Coach Jacob Primeaux
-
-[About Jacob]({{< ref "post/jacob-primeaux.md" >}})
