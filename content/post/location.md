@@ -1,22 +1,15 @@
 +++
 topics = ["location"]
 date = "2016-07-31T15:25:09-05:00"
-tags = ["bjj", "parking", "map"]
+tags = ["bjj", "parking", "map", "location", "directions"]
 title = "Location"
 weight = 6
 
 +++
 
 
-#### [2401 Longview St. #R1 Austin, TX 78705](https://goo.gl/maps/xsSoGZ49hcL2 "location")
+#### [8127 Mesa Dr, Suite A105, Austin, TX 78759](https://goo.gl/maps/bU7Q5G9gPTu "location")
 
 ![Austin Jiu-Jitsu map](/img/map.png)
 
-We're located in UT West Campus, 1 block east of Lamar on the northeast corner of Longview and 24th St in the 1st floor of the 24 Longview apartment building. In the Google Maps satellite image and street view, this shows up as an empty field. There is an apartment building there now. See the picture below.
-
-![Austin Jiu-Jitsu is located at 2401 Longview St #R1 78705](/img/ajj-location-street.png)
-
-
-### Parking
-
-There is street parking in the area. Do not park in the parking garage, as it is reserved for tenants and you will be towed.
+We share space with Third Coast Martial Arts, located on the east side of Mesa Drive between Spicewood Springs Rd and Steck Ave. We're in the corner of the same retail center where Galaxy Cafe and the UPS Store are located, and across the street from DoubleDave's Pizza.
