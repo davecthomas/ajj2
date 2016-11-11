@@ -8,7 +8,7 @@ weight = 1
 +++
 
 
-#### [8127 Mesa Dr, Suite A105, Austin, TX 78759](https://goo.gl/maps/bU7Q5G9gPTu "location")
+#### [8127 Mesa Dr, Suite A105, Austin, TX 78759](https://goo.gl/G8FMu2 "location")
 
 ![Austin Jiu-Jitsu map](/img/map.png)
 

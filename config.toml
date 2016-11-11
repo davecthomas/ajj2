@@ -222,6 +222,12 @@ infinite_scroll = true
      #
      [[Params.Footer.List]]
 
+         icon_class = "map-marker"
+         icon_link = "https://goo.gl/G8FMu2"
+         target = "_blank"
+
+      [[Params.Footer.List]]
+
          icon_class = "rss"
          icon_link = "/blogs/jits-happens"
          target = "_self"
