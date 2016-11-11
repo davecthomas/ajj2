@@ -3,7 +3,7 @@ topics = ["location"]
 date = "2016-07-31T15:25:09-05:00"
 tags = ["bjj", "parking", "map", "location", "directions"]
 title = "Location"
-weight = 6
+weight = 1
 
 +++
 
