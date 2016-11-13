@@ -13,3 +13,7 @@ weight = 6
 ![Austin Jiu-Jitsu map](/img/map.png)
 
 We share space with Third Coast Martial Arts, located on the east side of Mesa Drive between Spicewood Springs Rd and Steck Ave. We're in the corner of the same retail center where Galaxy Cafe and the UPS Store are located, and across the street from DoubleDave's Pizza.
+
+##### Easy to get here by bus!
+
+We are right on the [19-Bull Creek bus route](http://www.capmetro.org/schedmap/?svc=0&f1=19&s=0&d=N)! Super convenient if you live downtown, UT campus, or West Central Austin!
