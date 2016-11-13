@@ -5,7 +5,7 @@ authorimages = ["dave-thomas.jpg"]
 date = "2016-07-31T15:25:09-05:00"
 tags = ["bjj"]
 title = "Brazilian Jiu-Jitsu"
-weight = 1
+weight = 6
 
 +++
 
