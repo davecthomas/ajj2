@@ -186,7 +186,7 @@ infinite_scroll = true
      # This is optional
      email = ""
 
-     image = "img/ajj-skull-graphic.png"
+     image = "img/Logo-Master.png"
 
      # redirect on click of main logo
      redirectOnClick = true
