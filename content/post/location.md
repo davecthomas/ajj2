@@ -12,7 +12,7 @@ weight = 1
 
 ![Austin Jiu-Jitsu map](/img/map.png)
 
-We are located in Suite A105, where we share space with Third Coast Martial Arts. We are located on the east side of Mesa Drive between Spicewood Springs Rd and Steck Ave. We're in the corner of the same retail center where Galaxy Cafe and the UPS Store are located, across the street from DoubleDave's Pizza.
+We are located in Suite A105, where we share space with Third Coast Fitness. We are located on the east side of Mesa Drive between Spicewood Springs Rd and Steck Ave. We're in the corner of the same retail center where Galaxy Cafe and the UPS Store are located, across the street from DoubleDave's Pizza.
 
 ##### Easy to get here by bus!
 
