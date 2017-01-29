@@ -9,18 +9,16 @@ weight = 5
 +++
 
 ### Email
-![Call Us](/img/coach.png "")
+![Email Us](/img/coach.png "")
+
 ### Phone
 Call or text us at ![Call Us](/img/contact-txt.png "")
 
-### Location
+### Austin Jiu-Jitsu is located at [8127 Mesa Dr, Austin, TX 78759](https://goo.gl/G8FMu2 "location")
 
 We are only open during class times, so please see our [schedule]({{< ref "post/schedule.md" >}}) to plan a visit.
 
-2401 Longview St.
-Austin, TX 78705
-
-[See map]({{< ref "post/location.md" >}})
+[More on our location and map]({{< ref "post/location.md" >}})
 
 ### Social Media
 
