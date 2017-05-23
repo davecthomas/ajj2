@@ -14,8 +14,8 @@ weight = 5
 ### Phone or Text
 Text preferred, as we get lots of solicitors ![txt us](/img/taproll.png "")
 
-### Located at [8127 Mesa Dr, Austin, TX 78759](https://goo.gl/G8FMu2 "location")
-Suite A105 within Third Coast Fitness in the corner of the retail center.
+### Located at [4220 S Lamar Blvd #400, Austin, TX 78704](https://goo.gl/maps/bDe7mea3yzt "location")
+We are located in Suite 400, where we share space with Traditional Martial Arts Academy. Look for suite 400 in the right corner of the brown brick retail center.
 
 [Read more about our location here]({{< ref "post/location.md" >}})
 

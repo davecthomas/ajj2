@@ -2,7 +2,7 @@
 draft = false
 topics = ["services", "what we do"]
 Description = ""
-Tags = ["bjj", "wrestling", "strength"]
+Tags = ["bjj"]
 Date = "2016-07-29T11:43:42-05:00"
 Title = "What We Do"
 subt = "Training the Complete Fighter"
@@ -26,9 +26,9 @@ Training with Austin Jiu-Jitsu is guaranteed to raise your awareness, understand
 - Strength and Mobility
 
 ### Our History
-**We have been teaching Austin how to grapple for 13 years!**
+**We have been teaching Austin how to grapple for 14 years!**
 
-Austin Jiu-Jitsu was founded by David Thomas, holder of 3 black belts, in 2003. Our gym is committed to developing student potential through safe, balanced, and effective self-defense training, leveraging the concepts Brazilian Jiu-Jitsu, Submission Grappling, wrestling, and Mobility & Strength Training.
+Austin Jiu-Jitsu was founded in 2003. Our gym is committed to developing student potential through safe, balanced, and effective self-defense training, leveraging the concepts Brazilian Jiu-Jitsu and ground fighting (Submission Grappling).
 
 ### Our coaches
 

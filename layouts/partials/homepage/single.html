@@ -3,7 +3,7 @@
 {{ partial "core/head.html" . }}
 
 {{ $baseUrl := .Site.BaseURL }}
-{{ $year := .Date.Format "2006"}}
+{{ $year := .Now.Year}}
 
 <body class="page-colors">
   <script>

@@ -3,7 +3,7 @@ blogs = ["Jits Happens"]
 coaches = ["Dave Thomas"]
 authorimages = ["dave-thomas.jpg"]
 date = "2011-02-04"
-tags = ["bjj", "competition", "jenny"]
+tags = ["bjj", "competition"]
 title = "Jenny Thomas, AJJ Hall of Famer"
 weight = 30
 

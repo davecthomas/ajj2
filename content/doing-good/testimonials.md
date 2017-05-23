@@ -10,13 +10,9 @@ weight = 40
 
 These are from internationally renowned masters in the art, past instructors, current students and parents of students, current and former training partners, and readers of David Thomas' online articles on martial arts. We are humbled by the kind words of recognition from all of you.
 
-#### From Dave's Coaches
-
-##### On David's Black Belt Promotion:
+#### From Our Coaches and Mentors 
 
 >"David is one of the most technical guys in the sport and has a unique, unorthodox game. He is always working to help others get better, no matter where he trains. He has developed a successful school, Austin Jiu-Jitsu. He is always developing new moves and shares them with others through his school and his web sites. His impact on the sport goes beyond Texas. " <cite>Professor Travis Tooke, Houston, TX</cite>
-
-##### On David's Brown Belt Promotion:
 
 >David has dedicated himself to continuously learning more about this sport. By building his own school he has also focused on different ways to teach and develop his own students. His promotion is overdue."
 "You have put in so much time and effort and are a great example of how jiu-jitsu can bring out the best in people. Keep up the good work buddy, the next belt's a little heavier!"
@@ -35,7 +31,7 @@ Congratulations to Dave Thomas on his well deserved Brown Belt. Dave has been in
 >"Dave, you are a class act."
 <cite>Carlos Machado Black Belt W. Vandry, Austin, TX</cite>
 
-"David Thomas is one of my students who is very strong and aggressive for his size. (140lbs.) He won the silver medal at the Pan Am this year and I think he will be winning Gold next time." Carlos Machado Black Belt W. Vandry, Austin, TX
+"David Thomas is one of my students who is very strong and aggressive for his size. (140lbs.) He won the silver medal at the Pan Am." Carlos Machado Black Belt W. Vandry, Austin, TX
 
 >It was great having you out to my gym...Your notes on technique are very impressive!"
 <cite>Eddie Bravo, Jean-Jacques Machado Black Belt, W. Hollywood, CA.</cite>

@@ -4,14 +4,14 @@ coaches = ["Dave Thomas"]
 authorimages = ["dave-thomas.jpg"]
 date = "2016-07-31T15:25:09-05:00"
 tags = ["bjj"]
-title = "About David Thomas"
-weight = 2
+title = "Coach Dave Thomas"
+weight = 9
 
 +++
 
 >There is great happiness in the lifelong pursuit of human potential."<cite>-Coach David Thomas</cite>
 
-David Thomas of Austin, Texas is founder and Head Coach of Austin Jiu-Jitsu (Self-Defense Mentor, LLC), offering self-defense instruction, consulting, and training. Dave is proud to have built Austin Jiu-Jitsu from a small group of friends in his garage to a thriving community of dedicated students over the past 14 years.
+Dave Thomas of Seattle, WA is founding coach at Austin Jiu-Jitsu (Self-Defense Mentor, LLC). While Dave now trains and works out of Seattle, he is proud to have built Austin Jiu-Jitsu from a small group of friends in his garage to a thriving community of dedicated students from 2003 - 2017. He visits the gym when he comes to town to roll with his students and friends.
 
 ##### Some of Dave's contributions include
 * His student-centric approach, helping them on their personal journey toward mastery.
@@ -28,7 +28,7 @@ David Thomas of Austin, Texas is founder and Head Coach of Austin Jiu-Jitsu (Sel
 Dave has been has been training, competing, and coaching since January 1985.
 
 #### Life Off the Mats
-When he isn't training and coaching, Dave enjoys a great [career](https://www.linkedin.com/in/dcthomas) in software product entrepreneurship, where he is currently Chief Product Officer at [Verb](http://goverb.com). He has two children, [Jenny]({{< ref "blog/jenny-thomas.md" >}}) and [Zach](https://www.youtube.com/user/budoatemaildotcom/search?query=zach), who both grew up on the mats with him at Austin Jiu-Jitsu. Dave's wife [Christine]({{< ref "post/christine-thomas.md" >}}) heads up the Austin Jiu-Jitsu women's program and has a [career](https://www.linkedin.com/in/christinegthomas) in high-tech finance. Dave and Christine both studied business at the [University of Chicago's Booth School of Business](https://www.chicagobooth.edu/) (2016 and 2017 MBA grads).
+When he isn't training and coaching, Dave enjoys a great [career](https://www.linkedin.com/in/dcthomas) in software product entrepreneurship, where he is a product leader at [Indeed](http://indeed.com). He has two children, [Jenny]({{< ref "blog/jenny-thomas.md" >}}) and [Zach](https://www.youtube.com/user/budoatemaildotcom/search?query=zach), who both grew up on the mats with him at Austin Jiu-Jitsu. Dave's wife Christine previously led the Austin Jiu-Jitsu women's program and has a [career](https://www.linkedin.com/in/christinegthomas) in high-tech finance. Dave and Christine both studied business at the [University of Chicago's Booth School of Business](https://www.chicagobooth.edu/) (2016 and 2017 MBA grads).
 
 #### Accomplishments and Qualifications
 
